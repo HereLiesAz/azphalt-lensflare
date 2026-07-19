@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.generator.lensflare",
+  "id": "com.hereliesaz.azphalt.lensflare",
   "name": "Lens Flare",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "generators": [
       {
-        "id": "lensflare",
+        "id": "com.hereliesaz.azphalt.lensflare",
         "name": "Lens Flare",
         "entry": "generator"
       }

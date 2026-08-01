@@ -6,6 +6,7 @@
   "kind": "code",
   "license": "GPL-3.0-or-later",
   "compat": ">=0.1",
+  "description": "Generates a soft round bloom on black, made to be screened over footage as a lens flare.",
   "author": "HereLiesAz",
   "runtime": "js",
   "entry": "code/main.js",
